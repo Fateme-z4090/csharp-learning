@@ -1,0 +1,14 @@
+C:\Users\novin\Desktop\MyC#Project2\17\bin\Debug\net9.0-windows\17.exe
+C:\Users\novin\Desktop\MyC#Project2\17\bin\Debug\net9.0-windows\17.deps.json
+C:\Users\novin\Desktop\MyC#Project2\17\bin\Debug\net9.0-windows\17.runtimeconfig.json
+C:\Users\novin\Desktop\MyC#Project2\17\bin\Debug\net9.0-windows\17.dll
+C:\Users\novin\Desktop\MyC#Project2\17\bin\Debug\net9.0-windows\17.pdb
+C:\Users\novin\Desktop\MyC#Project2\17\obj\Debug\net9.0-windows\17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novin\Desktop\MyC#Project2\17\obj\Debug\net9.0-windows\17.AssemblyInfoInputs.cache
+C:\Users\novin\Desktop\MyC#Project2\17\obj\Debug\net9.0-windows\17.AssemblyInfo.cs
+C:\Users\novin\Desktop\MyC#Project2\17\obj\Debug\net9.0-windows\17.csproj.CoreCompileInputs.cache
+C:\Users\novin\Desktop\MyC#Project2\17\obj\Debug\net9.0-windows\17.dll
+C:\Users\novin\Desktop\MyC#Project2\17\obj\Debug\net9.0-windows\refint\17.dll
+C:\Users\novin\Desktop\MyC#Project2\17\obj\Debug\net9.0-windows\17.pdb
+C:\Users\novin\Desktop\MyC#Project2\17\obj\Debug\net9.0-windows\17.genruntimeconfig.cache
+C:\Users\novin\Desktop\MyC#Project2\17\obj\Debug\net9.0-windows\ref\17.dll
